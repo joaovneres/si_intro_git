@@ -12,3 +12,13 @@ div.container{
     display: block;
     margin: 0 auto;
 }
+
+ul.list{
+    list-style-type: square;
+    margin-left: 2rem;
+}
+
+ul.list > li{
+    font-style: italic;
+    color: purple;
+}
