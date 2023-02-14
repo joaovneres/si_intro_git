@@ -22,3 +22,7 @@ ul.list > li{
     font-style: italic;
     color: purple;
 }
+
+body{
+    background-color: lightpink;
+}
