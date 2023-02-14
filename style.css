@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div.container{
+    width: 50%;
+    min-height: 400px;
+    background-color: beige;
+    border: solid gray thin;
+    box-shadow: 3px 3px 3px gray;
+    display: block;
+    margin: 0 auto;
+}
