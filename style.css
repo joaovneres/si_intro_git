@@ -13,9 +13,14 @@ div.container{
     margin: 0 auto;
 }
 
+div.container > h1{
+    text-shadow: 3px 3px 3px blue;
+}
+
 ul.list{
     list-style-type: square;
     margin-left: 2rem;
+    background-color: yellow;
 }
 
 ul.list > li{
